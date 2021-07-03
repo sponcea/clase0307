@@ -3,3 +3,4 @@
 * Hagen de Caballo
 * Sigfrid de Doble Dragón
 * Mime de Arpa
+* Fenrir de Lobo del norte
