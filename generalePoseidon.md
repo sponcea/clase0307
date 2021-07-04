@@ -4,3 +4,4 @@
 * Eo de Scylla
 * Isaac de Kraken
 * Krishna de Crysaor
+* Sorento de Sirena
