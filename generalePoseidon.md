@@ -3,3 +3,4 @@
 * Kanon de Dragón marino
 * Eo de Scylla
 * Isaac de Kraken
+* Sorento de Sirena
